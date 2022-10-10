@@ -1,0 +1,7 @@
+IN THIS FILE, I WILL SHOW YOU HOW TO DOWNLOAD PYTHON AND TAKE THE FIRST STEP TO BIOINFORMATIC DATA ANALYSIS
+https://www.python.org/downloads/release/python-3107/  
+# IN THIS WEBSITE, WE NEED TO NOTICE THE LATEST VERSION OF PYTHON; FOLLOW THE DEFAULT SETTING WHEN YOU INSTALL
+WIN+R #keyboard 
+python
+Python 3.10.7 (tags/v3.10.7:6cc6b13, Sep  5 2022, 14:08:36) [MSC v.1933 64 bit (AMD64)] on win32
+# the information of the first line including the orperation system shows the success of installing python software

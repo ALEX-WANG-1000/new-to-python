@@ -2,3 +2,4 @@ exit ()
 # close python 
 win+R+python
 # open python
+# 注意区分python 编辑器和解释器的区别。 编辑器：VScode, Vim, Jupter; 解释器：CPython and so on

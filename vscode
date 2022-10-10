@@ -1,0 +1,4 @@
+download the VSCODE software to save the .py file for further using
+creat a folder and a new .py file, rename it as hello.py under D:\pythonpractice\hello.py
+print ('hello world')
+print (1+2+3)

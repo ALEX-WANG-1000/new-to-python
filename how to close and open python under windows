@@ -1,0 +1,4 @@
+exit ()
+# close python 
+win+R+python
+# open python

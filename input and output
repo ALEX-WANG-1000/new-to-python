@@ -1,0 +1,4 @@
+name = input('please insert your name: ')
+print ('hello', name)
+print (1+2+3)
+print ('我爱你', name, 'the world will encho my heart')
